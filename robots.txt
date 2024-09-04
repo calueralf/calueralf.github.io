@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://calueralf.github.io/sitemap.html.gz
+Sitemap: https://calueralf.github.io/app/sitemap.html.gz
+Sitemap: https://calueralf.github.io/assets/sitemap.html.gz
+Sitemap: https://calueralf.github.io/css/sitemap.html.gz
+Sitemap: https://calueralf.github.io/includes/sitemap.html.gz
+Sitemap: https://calueralf.github.io/item/sitemap.html.gz
+Sitemap: https://calueralf.github.io/src/sitemap.html.gz
